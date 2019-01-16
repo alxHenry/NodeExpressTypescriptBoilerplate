@@ -1,5 +1,5 @@
 {
-  "name": "budgeteering-rest",
+  "name": "node-express-typescript-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.ts",
